@@ -1,0 +1,25 @@
+
+   Deploying 'MoneyBox'\
+   --------------------\
+   > transaction hash:    0x02593da971854c87fd16a77a10111f71a55b04c13e0a120ec1222c2c75261d78\
+   > Blocks: 1            Seconds: 8\
+   > contract address:    0xb082428790aFCF1AB887c05eCa0941a067c1dBB2\
+   > block number:        23246045\
+   > block timestamp:     1612112924\
+   > account:             0xe34F721c983D3C0d32F0D14DA5ca2a4c50cFb4C7\
+   > balance:             0.99416406\
+   > gas used:            350494 (0x5591e)\
+   > gas price:           10 gwei\
+   > value sent:          0 ETH\
+   > total cost:          0.00350494 ETH\
+\
+   > Saving artifacts\
+   -------------------------------------\
+   > Total cost:          0.00350494 ETH\
+\
+\
+Summary\
+=======\
+> Total deployments:   1\
+> Final cost:          0.00350494 ETH\
+}
